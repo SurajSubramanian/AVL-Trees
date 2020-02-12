@@ -26,7 +26,7 @@ The height of the left and right subtrees differ by no more than 1
 
 2. The expression h^R - h^L is known as the Balance Factor, which can take only the values {-1, 0, 1}
 
-<img src="./images/skewedBST.png" alt="Skewed BST"
+<img src="https://en.wikipedia.org/wiki/AVL_tree#/media/File:AVL_Tree_Example.gif" alt="Skewed BST"
 	title="Skewed BST" width="350" height="300" />
 	
 (source : Wikipedia https://en.wikipedia.org/wiki/AVL_tree) shows how AVL Trees balance their height.
