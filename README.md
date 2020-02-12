@@ -102,19 +102,19 @@ Once you compile and run the code, you can insert, delete and search values. Als
 
 ### Insertion
 
-<img src="./images/Insertion.png">
+<img src="./images/insertion.png">
 
 ### Deletion
 
-<img src = "./images/Deletion.png">
+<img src = "./images/deletion.png">
 
 ### Search
 
-<img src="./images/Search.png">
+<img src="./images/search.png">
 
 ### Traversal
 
-<img src="./images/Traversal.png">
+<img src="./images/traversal.png">
 
 Thanks for reading :)
 
