@@ -20,11 +20,11 @@ Hence AVL Trees are used. AVL Trees are self-balancing Binary Search Trees that 
 
 ## Properties of AVL Trees
 
-1. -1 ≤ h^R - h^L ≤ 1
-	where h^R is the height of the right subtree and h^L is the height of the left subtree
+1. -1 ≤ h<sub>R</sub> - h^<sub>L</sub> ≤ 1
+	where h<sub>R</sub> is the height of the right subtree and h<sub>L</sub> is the height of the left subtree
 The height of the left and right subtrees differ by no more than 1
 
-2. The expression h^R - h^L is known as the Balance Factor, which can take only the values {-1, 0, 1}
+2. The expression h<sub>R</sub> - h<sub>L</sub> is known as the Balance Factor, which can take only the values {-1, 0, 1}
 
 <img src="./images/AVL_Tree_Example.gif">
 (source : Wikipedia https://en.wikipedia.org/wiki/AVL_tree) shows how AVL Trees balance their height.
