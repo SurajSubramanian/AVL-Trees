@@ -6,7 +6,7 @@ Consider the case when the following values are inserted in order into a Binary 
 This would generate a skewed BST as follows :
 
 <img src="./images/skewedBST.png" alt="Skewed BST"
-	title="Skewed BST" width="150" height="100" />
+	title="Skewed BST" width="250" height="250" />
 
 Such a tree is not desirable since the complexities of all operations become Linear 
 
