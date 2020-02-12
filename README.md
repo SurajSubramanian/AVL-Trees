@@ -59,10 +59,10 @@ Before understanding the basic operations of an AVL Tree, you need to know how r
 
 The diagrams below are intended to help you understand the rotateLeft and rotateRIght functions in the code.
 
-#### Left Rotation :
+### Left Rotation :
 <img src="./images/leftRotation.png"  >
 
-#### Right Rotation :
+### Right Rotation :
 <img src="./images/rightRotation.png"  >
 
 ## Insertion
@@ -95,4 +95,26 @@ It is similar to the search operation in a standard BST
 
 - Extra space is required for balance factor. 
 - Though asymptotically faster, rebalancing costs time. Red-Black trees reduce the number of rotations and are therefore faster than AVL Trees.
+
+## Outputs
+
+Once you compile and run the code, you can insert, delete and search values. Also you can view the inorder, preorder and postorder traversals at any point.
+
+### Insertion
+
+<img src="./images/Insertion.png">
+
+### Deletion
+
+<img src = "./images/Deletion.png">
+
+### Search
+
+<img src="./images/Search.png">
+
+### Traversal
+
+<img src="./images/Traversal.png">
+
+Thanks for reading :)
 
