@@ -59,8 +59,8 @@ Before understanding the basic operations of an AVL Tree, you need to know how r
 
 The diagrams below are intended to help you understand the rotateLeft and rotateRIght functions in the code.
 
-<img src="./images/leftRotation.png" width="300" height="800" >
-<img src="./images/rightRotation.png" width="300" height="800" >
+<img src="./images/leftRotation.png"  >
+<img src="./images/rightRotation.png"  >
 
 ## Insertion
 
